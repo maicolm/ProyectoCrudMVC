@@ -12,11 +12,11 @@ Correo varchar(100)
 
 
 insert into CONTACTO(Nombres,Apellidos,Telefono,Correo) values
-('Jose','Perez','981680567','jose@gmail.com'),
-('Maicolm','Rivera','940402214','mar@gmail.com'),
-('Monica','Lopez','978455656','thalia@gmail.com'),
-('Daniel','Vega','989447134','belem@gmail.com'),
-('Jimmy','Rodas','936987854','alex@gmail.com')
+('Jose','Perez','977680567','jose@gmail.com'),
+('Maicolm','Rivera','940402214','maicolm@gmail.com'),
+('Monica','Lopez','978595656','monica@gmail.com'),
+('Daniel','Vega','989447134','danielm@gmail.com'),
+('Jimmy','Rodas','936987854','jimmy@gmail.com')
 
 
 select * from CONTACTO
