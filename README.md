@@ -54,7 +54,7 @@ Abre el archivo Web.config dentro del proyecto y asegúrate de usar los parámet
 
 <add name="cadena" providerName="System.Data.SqlClient" connectionString="Data Source=TUSERVER;Initial Catalog=DBCONTACTO;Integrated Security=True" />
 
-4. **Ejecuta el proyecto:**
+5. **Ejecuta el proyecto:**
 
 Presiona F5 o haz clic en "Iniciar depuración".
 
