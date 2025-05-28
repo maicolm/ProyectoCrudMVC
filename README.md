@@ -14,11 +14,13 @@ Este es un proyecto de ejemplo desarrollado como parte de la formación académi
 
 ## 📁 Estructura del proyecto
 
+- `Content/` - Archivos css Bootstrap  v5.2.3.
 - `Controllers/` - Controladores que gestionan la lógica de la aplicación.
 - `Models/` - Modelos que representan la estructura de los datos.
-- `Views/` - Vistas con Razor para la interfaz de usuario.
-- `Data/` - Lógica de acceso a datos (clases para conexión y operaciones SQL).
-- `DBCONTACTO.sql` - Script SQL que contiene la creación de tablas y procedimientos almacenados.
+- `Scripts/` - Archivos js Bootstrap  v5.2.3.
+- `Views/Contacto` - Vistas del CRUD para la interfaz de usuario (Inicio, Registrar, Editar y Eliminar).
+- `Web.config` - Lógica de acceso a datos (Cadena de conexión).
+- `DBCONTACTO.sql` - Script SQL que contiene la creación de tablas, insert y procedimientos almacenados.
 
 ## 🧠 Requisitos técnicos
 
