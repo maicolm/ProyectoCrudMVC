@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VISUALNET\\MVC\\ProyectoCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC64968-297F-4D94-9700-D4A6431181B1}|ProyectoCrud\\ProyectoCrud.csproj|c:\\visualnet\\mvc\\proyectocrud\\proyectocrud\\views\\contacto\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DC64968-297F-4D94-9700-D4A6431181B1}|ProyectoCrud\\ProyectoCrud.csproj|solutionrelative:proyectocrud\\views\\contacto\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC64968-297F-4D94-9700-D4A6431181B1}|ProyectoCrud\\ProyectoCrud.csproj|C:\\VISUALNET\\MVC\\ProyectoCrud\\proyectocrud\\controllers\\contactocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC64968-297F-4D94-9700-D4A6431181B1}|ProyectoCrud\\ProyectoCrud.csproj|solutionrelative:proyectocrud\\controllers\\contactocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC64968-297F-4D94-9700-D4A6431181B1}|ProyectoCrud\\ProyectoCrud.csproj|C:\\VISUALNET\\MVC\\ProyectoCrud\\proyectocrud\\views\\contacto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DC64968-297F-4D94-9700-D4A6431181B1}|ProyectoCrud\\ProyectoCrud.csproj|solutionrelative:proyectocrud\\views\\contacto\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC64968-297F-4D94-9700-D4A6431181B1}|ProyectoCrud\\ProyectoCrud.csproj|C:\\VISUALNET\\MVC\\ProyectoCrud\\proyectocrud\\views\\contacto\\inicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DC64968-297F-4D94-9700-D4A6431181B1}|ProyectoCrud\\ProyectoCrud.csproj|solutionrelative:proyectocrud\\views\\contacto\\inicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC64968-297F-4D94-9700-D4A6431181B1}|ProyectoCrud\\ProyectoCrud.csproj|C:\\VISUALNET\\MVC\\ProyectoCrud\\proyectocrud\\views\\contacto\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DC64968-297F-4D94-9700-D4A6431181B1}|ProyectoCrud\\ProyectoCrud.csproj|solutionrelative:proyectocrud\\views\\contacto\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC64968-297F-4D94-9700-D4A6431181B1}|ProyectoCrud\\ProyectoCrud.csproj|C:\\VISUALNET\\MVC\\ProyectoCrud\\proyectocrud\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8DC64968-297F-4D94-9700-D4A6431181B1}|ProyectoCrud\\ProyectoCrud.csproj|solutionrelative:proyectocrud\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC64968-297F-4D94-9700-D4A6431181B1}|ProyectoCrud\\ProyectoCrud.csproj|C:\\VISUALNET\\MVC\\ProyectoCrud\\proyectocrud\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC64968-297F-4D94-9700-D4A6431181B1}|ProyectoCrud\\ProyectoCrud.csproj|solutionrelative:proyectocrud\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC64968-297F-4D94-9700-D4A6431181B1}|ProyectoCrud\\ProyectoCrud.csproj|C:\\VISUALNET\\MVC\\ProyectoCrud\\proyectocrud\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DC64968-297F-4D94-9700-D4A6431181B1}|ProyectoCrud\\ProyectoCrud.csproj|solutionrelative:proyectocrud\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\VISUALNET\\MVC\\ProyectoCrud\\ProyectoCrud\\Views\\Contacto\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "ProyectoCrud\\Views\\Contacto\\Eliminar.cshtml",
+              "ToolTip": "C:\\VISUALNET\\MVC\\ProyectoCrud\\ProyectoCrud\\Views\\Contacto\\Eliminar.cshtml",
+              "RelativeToolTip": "ProyectoCrud\\Views\\Contacto\\Eliminar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T15:43:36.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\VISUALNET\\MVC\\ProyectoCrud\\ProyectoCrud\\Views\\Contacto\\Editar.cshtml",
+              "RelativeDocumentMoniker": "ProyectoCrud\\Views\\Contacto\\Editar.cshtml",
+              "ToolTip": "C:\\VISUALNET\\MVC\\ProyectoCrud\\ProyectoCrud\\Views\\Contacto\\Editar.cshtml",
+              "RelativeToolTip": "ProyectoCrud\\Views\\Contacto\\Editar.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T15:33:04.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inicio.cshtml",
+              "DocumentMoniker": "C:\\VISUALNET\\MVC\\ProyectoCrud\\ProyectoCrud\\Views\\Contacto\\Inicio.cshtml",
+              "RelativeDocumentMoniker": "ProyectoCrud\\Views\\Contacto\\Inicio.cshtml",
+              "ToolTip": "C:\\VISUALNET\\MVC\\ProyectoCrud\\ProyectoCrud\\Views\\Contacto\\Inicio.cshtml",
+              "RelativeToolTip": "ProyectoCrud\\Views\\Contacto\\Inicio.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T14:35:07.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contacto.cs",
+              "DocumentMoniker": "C:\\VISUALNET\\MVC\\ProyectoCrud\\ProyectoCrud\\Models\\Contacto.cs",
+              "RelativeDocumentMoniker": "ProyectoCrud\\Models\\Contacto.cs",
+              "ToolTip": "C:\\VISUALNET\\MVC\\ProyectoCrud\\ProyectoCrud\\Models\\Contacto.cs",
+              "RelativeToolTip": "ProyectoCrud\\Models\\Contacto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:20:38.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\VISUALNET\\MVC\\ProyectoCrud\\ProyectoCrud\\Web.config",
+              "RelativeDocumentMoniker": "ProyectoCrud\\Web.config",
+              "ToolTip": "C:\\VISUALNET\\MVC\\ProyectoCrud\\ProyectoCrud\\Web.config",
+              "RelativeToolTip": "ProyectoCrud\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-21T05:00:14.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactoController.cs",
+              "DocumentMoniker": "C:\\VISUALNET\\MVC\\ProyectoCrud\\ProyectoCrud\\Controllers\\ContactoController.cs",
+              "RelativeDocumentMoniker": "ProyectoCrud\\Controllers\\ContactoController.cs",
+              "ToolTip": "C:\\VISUALNET\\MVC\\ProyectoCrud\\ProyectoCrud\\Controllers\\ContactoController.cs",
+              "RelativeToolTip": "ProyectoCrud\\Controllers\\ContactoController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAA5wHcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:58:02.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registrar.cshtml",
+              "DocumentMoniker": "C:\\VISUALNET\\MVC\\ProyectoCrud\\ProyectoCrud\\Views\\Contacto\\Registrar.cshtml",
+              "RelativeDocumentMoniker": "ProyectoCrud\\Views\\Contacto\\Registrar.cshtml",
+              "ToolTip": "C:\\VISUALNET\\MVC\\ProyectoCrud\\ProyectoCrud\\Views\\Contacto\\Registrar.cshtml",
+              "RelativeToolTip": "ProyectoCrud\\Views\\Contacto\\Registrar.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwCMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T15:10:38.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\VISUALNET\\MVC\\ProyectoCrud\\ProyectoCrud\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "ProyectoCrud\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\VISUALNET\\MVC\\ProyectoCrud\\ProyectoCrud\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "ProyectoCrud\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:37:17.981Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
